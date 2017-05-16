@@ -1,2 +1,2 @@
 # github_tutorial
-https://github.com/cylilian/github_tutorial.git
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
